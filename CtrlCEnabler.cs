@@ -1,7 +1,12 @@
 ﻿// LICENSE - The Unlicense
 
 using System;
+using System.Reflection;
 using System.Runtime.InteropServices;
+
+[assembly: AssemblyTitle("Ctrl+C Enabler")]
+[assembly: AssemblyProduct("Ctrl+C Enabler")]
+[assembly: AssemblyVersion("1.0.0.0")]
 
 // See also: 
 // - https://docs.microsoft.com/en-us/windows/console/ctrl-c-and-ctrl-break-signals
