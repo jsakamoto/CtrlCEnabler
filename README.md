@@ -12,7 +12,7 @@ This class library can fix it :)
 
 ## How to install in your PowerShell?
 
-1. Download "CtrlCEnabler.dll" from [release page](releases), and save it into "%HOME%\Documents\WindowsPowerShell" folder.
+1. Download "CtrlCEnabler.dll" from [release page](../../releases), and save it into "%HOME%\Documents\WindowsPowerShell" folder.
 2. Open the PowerShell console and enter the following command:
 ```powershell
 PS> notepad $PROFILE
