@@ -46,3 +46,9 @@ See also:
 ## LICENSE
 
 [The Unlicense](LICENSE)
+
+## Appendix
+
+> In some case, a PowerShell console, which is launched from Visual Studio IDE external tools menu, doesn't accept Ctrl+C.
+
+A PowerShell console, which launced by ["Open Command Line"](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine) Visual Studio IDE Add-in, is alyways available Ctrl+C break.
